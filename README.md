@@ -1,2 +1,2 @@
 # java_practise
-This is some exercise
+This is some java exercise
