@@ -8,7 +8,7 @@ public class Hello
 	{
 		PrintWriter out=new PrintWriter("myfile.txt");
 		out.println("huanhuijing");
-		out.println("qihan is a nig man");
+		out.println("qihan is a big man");
 		out.println("byby");
 		out.println(new Date());
 		out.close();
